@@ -3,5 +3,5 @@ def using_for
 	for charm in checklist 
 	puts "Wingardium Leviosa"
 end
-
+end
 
